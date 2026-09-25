@@ -1,16 +1,20 @@
 {
   "name": "tilekind-room-preview",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
-  "description": "Local non-AI tile region editor and perspective preview",
+  "description": "Local tile room preview with optional bring-your-own-key AI",
   "scripts": {
-    "start": "node server.mjs",
+    "start": "node --env-file-if-exists=.env server.mjs",
     "test": "node --test",
     "fixtures": "node scripts/create-fixtures.mjs"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=22.9.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "0.35.4"
+  }
 }
+
