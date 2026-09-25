@@ -1,0 +1,126 @@
+{
+  "formatVersion": 1,
+  "status": "mit-prepared-not-published",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 133,
+      "sha256": "22ccbfade42185f024f0b39284c4c7aac240669d0112800f404b7ace1d615da1"
+    },
+    {
+      "path": "catalog.json",
+      "bytes": 3062,
+      "sha256": "2ca7bf981f7179cf2b301387ad623c2aba0574339148d952c199f5c61e7affd6"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1078,
+      "sha256": "25a9e1a6be4d57a8a40025b417fc9ca6b40bc42caefc6819564c1cc915d5fa2a"
+    },
+    {
+      "path": "LICENSE-DECISION.md",
+      "bytes": 787,
+      "sha256": "8d686b9bf8cd849f338ec3315e4012b92da46b96fbaa4f3f49086c2fc1359dac"
+    },
+    {
+      "path": "package.json",
+      "bytes": 378,
+      "sha256": "bf80977981e85350ae1396fee7bd54f271d62fd213f787ca2bd15d0b9959ac08"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 1664,
+      "sha256": "f8397321557f6e855eecfaaca7008fc1feff725576cfeef1494787297fb62d3b"
+    },
+    {
+      "path": "public/app.js",
+      "bytes": 98468,
+      "sha256": "9ba571d1e3e8f01e3c891b22b84c5810a38eef3d61f22ae49c8464af1ecf6dbd"
+    },
+    {
+      "path": "public/assets/demo-chalk.svg",
+      "bytes": 1825,
+      "sha256": "95d730445d2e5832474d1ef3ba2fb888ba1d1eee9009ab7ffaa0fb77c51202b5"
+    },
+    {
+      "path": "public/assets/demo-room.svg",
+      "bytes": 816,
+      "sha256": "3c35b8f75562147a2f1b265b09ae2d9bf722ffd1aa75a510169303515b7cab7f"
+    },
+    {
+      "path": "public/assets/demo-sand.svg",
+      "bytes": 1825,
+      "sha256": "b03a227f97ccf74b33b081b9b36414b06a5e02d98f7484f1f383f62df52b83cf"
+    },
+    {
+      "path": "public/assets/demo-slate.svg",
+      "bytes": 1825,
+      "sha256": "243dc97db93e396efbdf06645ba542fe4e0ea196ba1059842ddd9b6b30dd91a9"
+    },
+    {
+      "path": "public/editor.css",
+      "bytes": 43569,
+      "sha256": "81b5028eb145ee984cc89db02f07444feb2e367f2a417ece48c3a63cc6c7199b"
+    },
+    {
+      "path": "public/index.html",
+      "bytes": 25947,
+      "sha256": "f15057c78d0fd2dc9d977bf248cda5c6a0cda5684f9b8cd75946db82f5d38ba4"
+    },
+    {
+      "path": "public/quad-geometry.js",
+      "bytes": 1151,
+      "sha256": "8bfad202d97a5b4efbb0ddf01d1d83d25c06436cc80ad4d8cb06504d5b9722d7"
+    },
+    {
+      "path": "public/renderer.js",
+      "bytes": 36745,
+      "sha256": "175c61286cb66ba8b6e71f09b178ab1f818ee209d676f6defe34d1128ece05af"
+    },
+    {
+      "path": "public/request-recovery.js",
+      "bytes": 5704,
+      "sha256": "a8b5ea86a8721adab4aa089eea486ab0056520784cf823c18ec6b442ff8b8490"
+    },
+    {
+      "path": "public/styles.css",
+      "bytes": 40236,
+      "sha256": "9279905f5fdc809e3238ec282ae6c49f43b8a635517c0136bd785deff675e7ff"
+    },
+    {
+      "path": "public/ui-copy-en.js",
+      "bytes": 793,
+      "sha256": "ce0b4c5e276a37fe20e3cc9c9ac3aa2fa109c5a113c68905e7b98385e27bd860"
+    },
+    {
+      "path": "public/waiting-motion.js",
+      "bytes": 5687,
+      "sha256": "1509190a7c0d3fb08b4d91d4730342a95619fc6c5077aa32142f17efb3347503"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4251,
+      "sha256": "196196afc1351025679e974abbed34996a7cc53949f65608ef02fbd228428933"
+    },
+    {
+      "path": "scripts/create-fixtures.mjs",
+      "bytes": 2737,
+      "sha256": "210479caa15ecdef60fec35043bf1a0832bfbe0af74ea2d3bfad527d9f77a1e2"
+    },
+    {
+      "path": "scripts/release-manifest.mjs",
+      "bytes": 920,
+      "sha256": "d564c78d7daa62ffc2e1d5520e4bd02af6484d9e2e31d015f8ea299a60cc3cf7"
+    },
+    {
+      "path": "server.mjs",
+      "bytes": 2767,
+      "sha256": "c8374f6581261482715cde3cc832ed82aeea03944016d449ee8e897b35c5e5a4"
+    },
+    {
+      "path": "tests/preview.test.mjs",
+      "bytes": 2671,
+      "sha256": "92c85a80d40bafb03c18c3bc3ae40870c92cc07768f6bee07bba8b092245c98f"
+    }
+  ]
+}

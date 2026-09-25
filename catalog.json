@@ -1,0 +1,154 @@
+{
+  "rooms": [
+    {
+      "id": "demo-room",
+      "name": "Schematic room",
+      "src": "/assets/demo-room.svg",
+      "width": 1200,
+      "height": 800,
+      "synthetic": true,
+      "sourceNote": "Original geometric demo drawing. Not a real room or AI-generated photograph.",
+      "surfaces": [
+        {
+          "id": "floor-1",
+          "label": "Floor",
+          "kind": "floor",
+          "tileId": "sand",
+          "quad": [
+            [
+              0.2,
+              0.55
+            ],
+            [
+              0.8,
+              0.55
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              0,
+              1
+            ]
+          ],
+          "exclusions": [
+            [
+              [
+                0.6,
+                0.60625
+              ],
+              [
+                0.63333,
+                0.565
+              ],
+              [
+                0.75,
+                0.565
+              ],
+              [
+                0.75,
+                0.74
+              ],
+              [
+                0.71667,
+                0.78125
+              ],
+              [
+                0.6,
+                0.78125
+              ]
+            ]
+          ],
+          "settings": {
+            "groutColor": "#d6d0c5",
+            "groutMm": 3,
+            "rotation": 0,
+            "layout": "straight",
+            "scale": 1
+          },
+          "planeWidthMm": 4200,
+          "planeDepthMm": 4000
+        },
+        {
+          "id": "wall-1",
+          "label": "Back wall",
+          "kind": "wall",
+          "tileId": "chalk",
+          "quad": [
+            [
+              0.2,
+              0.1
+            ],
+            [
+              0.8,
+              0.1
+            ],
+            [
+              0.8,
+              0.55
+            ],
+            [
+              0.2,
+              0.55
+            ]
+          ],
+          "exclusions": [
+            [
+              [
+                0.32,
+                0.18
+              ],
+              [
+                0.48,
+                0.18
+              ],
+              [
+                0.48,
+                0.42
+              ],
+              [
+                0.32,
+                0.42
+              ]
+            ]
+          ],
+          "settings": {
+            "groutColor": "#d6d0c5",
+            "groutMm": 3,
+            "rotation": 0,
+            "layout": "straight",
+            "scale": 1
+          },
+          "planeWidthMm": 4200,
+          "planeDepthMm": 2400
+        }
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "id": "sand",
+      "name": "Sand demo",
+      "src": "/assets/demo-sand.svg",
+      "widthMm": 600,
+      "heightMm": 600
+    },
+    {
+      "id": "chalk",
+      "name": "Chalk demo",
+      "src": "/assets/demo-chalk.svg",
+      "widthMm": 600,
+      "heightMm": 600
+    },
+    {
+      "id": "slate",
+      "name": "Slate demo",
+      "src": "/assets/demo-slate.svg",
+      "widthMm": 600,
+      "heightMm": 600
+    }
+  ],
+  "testCases": [],
+  "examples": []
+}
